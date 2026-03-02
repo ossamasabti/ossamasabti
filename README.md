@@ -40,6 +40,15 @@ https://github.com/ossamasabti/Human-AI-Art-Classifier
 GitHub Repo:  
 https://github.com/ossamasabti/Ossama_Sabti.github.io
 
+### Plateforme E-Recrutement (MADA JOB IN-CLICK)
+- Application web de gestion des offres d’emploi et des candidatures pour les administrations publiques
+- Développée avec **Django**, **MySQL**, **Bootstrap 5**
+- Fonctionnalités : authentification multi‑rôles (Candidat, RH, Super‑Admin), CRUD offres, dépôt et suivi des candidatures, tableaux de bord, statistiques
+- Architecture MVT, ORM Django, sécurité intégrée (CSRF, XSS, hachage)
+
+GitHub Repo:  
+[https://github.com/ossamasabti/E_recrutement](https://github.com/ossamasabti/E_recrutement)
+
 ---
 
 
