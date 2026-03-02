@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ossama Sabti 👋
 
-<!--
-**ossamasabti/ossamasabti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Mathematics, Data Analysis & Learning  
+💻 Passionate about Data Science, Machine Learning, and AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Data Analysis
+- Data Visualization
+- Mathematics for AI
+
+---
+
+## Projects
+
+### Human vs AI Art Classifier
+- Vision Transformer (ViT)
+- PyTorch
+- Image Classification
+- Accuracy: 84%
+
+GitHub Repo:
+https://github.com/ossamasabti/Human-AI-Art-Classifier
+
+---
+
+## Goals
+
+- Become a Data Scientist
+- Apply Machine Learning to real-world problems
+- Develop advanced AI projects
+
+---
+
+## Contact
+
+- GitHub: https://github.com/ossamasabti
