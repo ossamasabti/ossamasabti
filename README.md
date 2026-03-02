@@ -50,7 +50,8 @@ https://github.com/ossamasabti/Ossama_Sabti.github.io
 - Develop advanced AI projects
 
 ---
-
 ## Contact
 
+- Email: oussamasabti6@gmail.com
 - GitHub: https://github.com/ossamasabti
+- LinkedIn: https://www.linkedin.com/in/oussama-sabti-05890a268/
