@@ -20,15 +20,28 @@
 ## Projects
 
 ### Human vs AI Art Classifier
-- Vision Transformer (ViT)
-- PyTorch
-- Image Classification
-- Accuracy: 84%
+- Built an image classification model using Vision Transformer (ViT) and PyTorch
+- Classified artwork as Human-created or AI-generated
+- Achieved 84% accuracy
+- Demonstrates skills in Deep Learning and Computer Vision
 
-GitHub Repo:
+GitHub Repo:  
 https://github.com/ossamasabti/Human-AI-Art-Classifier
 
 ---
+
+### Employability Analysis of Moroccan Graduates
+- Performed complete Data Science pipeline on graduate employability dataset
+- Data cleaning, preprocessing, and exploratory data analysis (EDA)
+- Statistical analysis and hypothesis testing
+- Built Logistic Regression classification model
+- Used Python, Pandas, Scikit-learn, Seaborn, and Jupyter
+
+GitHub Repo:  
+https://github.com/ossamasabti/Ossama_Sabti.github.io
+
+---
+
 
 ## Goals
 
